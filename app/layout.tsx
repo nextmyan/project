@@ -10,7 +10,6 @@ export const metadata = {
   title: "AbroadiQ - Find Your Perfect University Match Abroad",
   description:
     "AbroadiQ helps students find top universities worldwide based on their academic profile, budget, and interests with AI-powered recommendations.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
